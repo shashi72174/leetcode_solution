@@ -5,6 +5,6 @@ public interface FunctionalInterfaceA {
 	public String singleMeth();
 	
 	public static String singleStaticMeth() {
-		return "singleStaticMeth";
+		return "singleStaticMeth";//fgfkgljdfsgjk
 	}
 }

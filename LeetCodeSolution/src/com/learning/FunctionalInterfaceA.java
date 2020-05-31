@@ -1,6 +1,6 @@
 package com.learning;
 
-@FunctionalInterface  //this is functional interface, so dont add another abstract method here. it will throw an error.
+@FunctionalInterface  //this is functional interface, so dont add another abstract method here. it will throw an error. dfdsfads
 public interface FunctionalInterfaceA {
 	public String singleMeth();
 	

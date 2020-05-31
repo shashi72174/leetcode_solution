@@ -5,7 +5,7 @@ public interface FunctionalInterfaceA {
 	public String singleMeth();
 	
 	public static String singleStaticMeth() {
-		return "fromSingleStaticMeth";//this will be returned from this static method
+		return "shashinewreturn";//this will be returned from this static method fjlksdfjsdlk
 
 	}
 }

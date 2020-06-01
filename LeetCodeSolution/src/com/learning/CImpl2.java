@@ -18,7 +18,6 @@ public class CImpl2 implements C {
 	public void printC() {
 		// TODO Auto-generated method stub
 		System.out.println("hi2");
-
 	}
 
 }

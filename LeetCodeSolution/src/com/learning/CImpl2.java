@@ -5,7 +5,7 @@ public class CImpl2 implements C {
 	@Override
 	public void printB() {
 		// TODO Auto-generated method stub
-
+		System.out.println("hi");
 	}
 
 	@Override
